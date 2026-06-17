@@ -1,8 +1,6 @@
 <div align="right">
   <a title="About Project" href="./CONTRIBUTING.md">About Project</a>
   /
-  <a title="QQ Group" href="https://qm.qq.com/q/prcUk74J0Y">QQ Group</a>
-  /
   <a title="Support me" href="./SUPPORT.md">Support me</a>
   /
   <a title="Chinese" href="./README.md">中文 Chinese</a>

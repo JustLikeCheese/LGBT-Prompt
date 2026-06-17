@@ -1,8 +1,6 @@
 <div align="right">
   <a title="关于项目" href="./CONTRIBUTING.md">关于项目</a>
   /
-  <a title="交流群聊" href="https://qm.qq.com/q/prcUk74J0Y">QQ 交流群</a>
-  /
   <a title="赞助支持" href="./SUPPORT.md">赞助支持</a>
   / 
   <a title="English" href="./README.en.md">English 英语</a>
